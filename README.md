@@ -8,3 +8,4 @@ Es una serie de archivos de Jupyter Notebook utilizando comandos y librerias de 
 2. numpy
 3. yfinance
 4. scipy
+5. riskfolio-lib
